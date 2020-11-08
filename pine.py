@@ -6,7 +6,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 
 print('''
 ====================================
- Pine: Neural-Network Aimbot (v0.1)
+ Pine: Neural-Network (v0.1)
 ====================================
 
 [INFO] press '0' to quit or ctrl+C in console...''')
